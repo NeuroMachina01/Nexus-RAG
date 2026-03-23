@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-ollama
+langchain-community
+langchain-core
+langgraph
+faiss-cpu
+rank_bm25
+ragas
+datasets
+numpy
